@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "task_hash": "rotation_90",
+      "train_examples": [
+        {
+          "input": [[1, 0], [0, 0]],
+          "output": [[0, 0], [1, 0]]
+        }
+      ],
+      "test_input": [[1, 2], [3, 4]]
+    }
+  ]
+}
+

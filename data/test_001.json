@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "task_hash": "identity_test",
+      "train_examples": [
+        {
+          "input": [[1, 2], [3, 4]],
+          "output": [[1, 2], [3, 4]]
+        }
+      ],
+      "test_input": [[5, 6], [7, 8]]
+    }
+  ]
+}
+
